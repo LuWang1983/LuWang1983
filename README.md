@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lu!
 - 🏋️ I’m interested in weightlifting 
-- 🌱 I’m currently learning Chrome Extension, TypeScript, Angular, Angularjs, Sentry and Google Cloud Platform
+- 🌱 I’m currently learning Chrome Extension, TypeScript, RxJS, Angular, AngularJS, Sentry and Google Cloud Platform
 - 📫 How to reach me loowang@hotmail.com
 
 <!---
