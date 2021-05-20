@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @LuWang1983
-- 👀 I’m interested in weightlifting
-- 🌱 I’m currently learning SRE best practic, TypeScript, Angular, Sentry and Google Cloud Platform
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Lu!
+- 🏋️ I’m interested in weightlifting 
+- 🌱 I’m currently learning Chrome Extension, TypeScript, Angular, Angularjs, Sentry and Google Cloud Platform
 - 📫 How to reach me loowang@hotmail.com
 
 <!---
